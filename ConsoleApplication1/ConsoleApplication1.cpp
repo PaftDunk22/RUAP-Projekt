@@ -5,7 +5,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "„Pozdrav iz aplikacije od Oliver Andjic, index number:12345\n";
+=======
+    std::cout << "„Pozdrav iz aplikacije od Oliver Andjic\n";
+>>>>>>> cde0719 (first)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
